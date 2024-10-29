@@ -1,0 +1,11 @@
+{
+  "lane_count": 3,
+  "num_episodes": 100,
+  "batch_size": 32,
+  "discount_factor": 0.99,
+  "initial_epsilon": 1.0,
+  "epsilon_decay": 0.995,
+  "min_epsilon": 0.01,
+  "learning_rate": 0.001,
+  "max_speed": 30
+}
